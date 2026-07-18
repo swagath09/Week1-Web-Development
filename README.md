@@ -19,5 +19,8 @@ Skill Nexis Web Development Internship
 - CSS3
 - JavaScript
 
+## Live URL of Portfolio
+https://swagath-portfolio.netlify.app/
+
 ## Author
 Swagath
